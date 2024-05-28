@@ -177,7 +177,7 @@ const display = () => {
         list.innerHTML += `
             <div>
                 
-                    <div  style=" display: flex; justify-content: space-between;" >
+                    <div  style="" >
                     <div>${index+1}. ${item.name}</div>
                     <div>
                         <span>${item.amount}</span>
